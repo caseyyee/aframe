@@ -20,6 +20,7 @@ require('./vive-controls');
 require('./wasd-controls');
 
 require('./scene/auto-enter-vr');
+require('./scene/reload');
 require('./scene/canvas');
 require('./scene/debug');
 require('./scene/embedded');
